@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Sachith
 
-<!--
-**SACHITH31/SACHITH31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Full-Stack Developer | MERN | Node.js | SQL  
+🚀 Passionate about building scalable web apps  
+📚 Currently learning: DevOps, TypeScript, System Design  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Frontend:** React, HTML, CSS, JS
+- **Backend:** Node.js, Express
+- **Database:** MySQL, MongoDB
+- **Tools:** Git, VS Code, Postman, Docker (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- ✅ Task Manager App (React + Node + MySQL)
+- ✅ Chat Application (Socket.io)
+- ✅ Personal Portfolio Website
+
+## 📊 GitHub Stats
+![Sachith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+
+## 🌐 Portfolio
+https://your-portfolio-link.com
+
+📩 Email: youremail@example.com  
