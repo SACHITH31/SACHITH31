@@ -27,4 +27,4 @@
 ## 🌐 Portfolio
 🔗 Coming soon...
 
-📩 Email: your-mail-id-here
+📩 Email: kasasachith@gmail.com
