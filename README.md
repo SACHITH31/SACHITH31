@@ -24,8 +24,18 @@
 ## 📊 GitHub Stats
 ![Sachith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
 
-## 📈 Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+## 📊 GitHub Analytics
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SACHITH31&theme=github_dark)
+
+### ⚡ Stats & Performance
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SACHITH31&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SACHITH31&theme=github_dark&utcOffset=5.5)
+
+### 🧠 Most Used Languages
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SACHITH31&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SACHITH31&theme=github_dark)
+
 
 
 ## 🌐 Portfolio
