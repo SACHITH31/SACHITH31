@@ -53,13 +53,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-> Refreshes automatically
-
-![snake gif](https://github.com/SACHITH31/SACHITH31/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🎯 Current Goals
 - Improve React & JavaScript
 - Learn Node.js + MySQL properly
@@ -72,7 +65,7 @@
 
 | Platform | Link |
 |---------|-----|
-| 💼 LinkedIn | (https://www.linkedin.com/in/sachith-kasa-11713a391/) |
+| 💼 LinkedIn | https://www.linkedin.com/in/sachith-kasa-11713a391/ |
 | 🌐 Portfolio | Coming Soon |
 | 📧 Email | kasasachith@gmail.com |
 
