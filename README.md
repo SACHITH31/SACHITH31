@@ -1,24 +1,30 @@
 # 👋 Hi, I'm Sachith
 
-🎯 Full-Stack Developer | MERN | Node.js | SQL  
-🚀 Passionate about building scalable web apps  
-📚 Currently learning: DevOps, TypeScript, System Design  
+🌱 Passionate Frontend Developer | Learning Full-Stack  
+💻 I love building responsive and user-friendly web apps  
+🎓 Completed internship at ThoughtWorks, Hyderabad  
+🚀 Learning by building real projects everyday  
 
 ## 🛠 Tech Stack
-- **Frontend:** React, HTML, CSS, JS
-- **Backend:** Node.js, Express
-- **Database:** MySQL, MongoDB
-- **Tools:** Git, VS Code, Postman, Docker (learning)
+- **Frontend:** HTML, CSS, JavaScript, ReactJS  
+- **Backend:** Learning Node.js & Express  
+- **Database:** Learning MySQL  
+- **Tools:** Git, GitHub, VS Code  
 
-## 🚀 Projects
-- ✅ Task Manager App (React + Node + MySQL)
-- ✅ Chat Application (Socket.io)
-- ✅ Personal Portfolio Website
+## 🎯 Current Goals
+- Become a Full-Stack Developer  
+- Build more real-world projects  
+- Improve React & JavaScript skills  
+
+## 📂 Projects (Beginner Projects)
+- ✅ Portfolio Website  
+- ✅ To-Do App (React)  
+- ✅ Basic CRUD app (Learning)  
 
 ## 📊 GitHub Stats
 ![Sachith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
 
 ## 🌐 Portfolio
-https://your-portfolio-link.com
+🔗 Coming soon...
 
-📩 Email: youremail@example.com  
+📩 Email: your-mail-id-here
