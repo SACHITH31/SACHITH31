@@ -16,7 +16,8 @@
 ![JS](https://img.shields.io/badge/JavaScript-black?logo=javascript)
 ![Python](https://img.shields.io/badge/Python-black?logo=python)
 ![C](https://img.shields.io/badge/C-black?logo=c)
-![C](https://img.shields.io/badge/Java-black?logo=java)
+![Java
+](https://img.shields.io/badge/Java-black?logo=java)
 
 ### 🎨 Frontend
 ![HTML](https://img.shields.io/badge/HTML-black?logo=html5)
