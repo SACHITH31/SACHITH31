@@ -25,7 +25,7 @@ I enjoy building clean, user-centric web applications and continuously improving
 
 # 🚀 Tech Stack
 
-## 🧠 Languages
+### 🧠 Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
 ![Python](https://img.shields.io/badge/Python-black?logo=python)
@@ -33,26 +33,26 @@ I enjoy building clean, user-centric web applications and continuously improving
 ![Java](https://img.shields.io/badge/Java-black?logo=java)
 
 
-## 🎨 Frontend
+### 🎨 Frontend
 
 ![HTML](https://img.shields.io/badge/HTML-black?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-black?logo=css3)
 ![React](https://img.shields.io/badge/React-black?logo=react)
 
 
-## ⚙ Backend (Learning)
+### ⚙ Backend (Learning)
 
 ![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-black?logo=express)
 
 
-## 🗄 Databases (Learning)
+### 🗄 Databases (Learning)
 
 ![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
 
 
-## 🧰 Tools
+### 🧰 Tools
 
 ![Git](https://img.shields.io/badge/Git-black?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
