@@ -3,7 +3,7 @@
 <p align="center">
   🚀 Frontend Developer | Aspiring Full-Stack Engineer  
   <br/>
-  💡 Building scalable, clean & performance-focused web applications  
+  💡 Focused on scalable systems, clean architecture & performance  
   <br/>
   🎓 B.Tech Student | Former Intern @ ThoughtWorks, Hyderabad
 </p>
@@ -12,30 +12,56 @@
 
 ## 👨‍💻 About Me
 
-- Passionate about crafting intuitive and user-friendly web experiences  
-- Strong foundation in JavaScript and React ecosystem  
-- Currently expanding into backend development and databases  
-- Focused on writing clean, maintainable, and optimized code  
-- Actively practicing Data Structures & Algorithms  
+I am a frontend-focused developer currently expanding into full-stack engineering.  
+I enjoy building clean, user-centric web applications and continuously improving problem-solving skills through Data Structures & Algorithms.
+
+- Strong foundation in JavaScript & React
+- Learning backend system design with Node.js
+- Exploring database integration (MySQL & MongoDB)
+- Writing maintainable, structured, and optimized code
+- Consistent with DSA practice
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Tech Stack
 
-### 💻 Languages
-JavaScript • Python • C • Java  
+## 🧠 Languages
 
-### 🎨 Frontend
-HTML • CSS • React  
+![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
+![Python](https://img.shields.io/badge/Python-black?logo=python)
+![C](https://img.shields.io/badge/C-black?logo=c)
+![Java](https://img.shields.io/badge/Java-black?logo=java)
 
-### ⚙ Backend (Learning & Building)
-Node.js • Express.js  
+---
 
-### 🗄 Databases (Learning)
-MySQL • MongoDB  
+## 🎨 Frontend
 
-### 🧰 Tools & Platforms
-Git • GitHub • VS Code • Postman  
+![HTML](https://img.shields.io/badge/HTML-black?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-black?logo=css3)
+![React](https://img.shields.io/badge/React-black?logo=react)
+
+---
+
+## ⚙ Backend (Learning)
+
+![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-black?logo=express)
+
+---
+
+## 🗄 Databases (Learning)
+
+![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
+
+---
+
+## 🧰 Tools
+
+![Git](https://img.shields.io/badge/Git-black?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-black?logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/Postman-black?logo=postman)
 
 ---
 
@@ -43,27 +69,23 @@ Git • GitHub • VS Code • Postman
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SACHITH31&theme=github_dark)
 
-### ⚡ Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SACHITH31&theme=github_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SACHITH31&theme=github_dark&utcOffset=5.5)
 
-### 💡 Languages
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SACHITH31&theme=github_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SACHITH31&theme=github_dark)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SACHITH31&theme=github-dark)
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 2026 Engineering Goals
 
-- Strengthen expertise in React & modern JavaScript
 - Build production-ready full-stack applications
-- Master Node.js + MySQL integration
-- Contribute to meaningful open-source projects
-- Maintain daily DSA problem-solving consistency
+- Master backend architecture with Node.js
+- Deepen knowledge in MySQL performance optimization
+- Contribute to impactful open-source projects
+- Maintain daily DSA discipline
 
 ---
 
@@ -76,5 +98,5 @@ Git • GitHub • VS Code • Postman
 ---
 
 <p align="center">
-  <i>“Consistency builds mastery.”</i>
+  <i>Engineering mindset. Long-term growth. Consistent execution.</i>
 </p>
