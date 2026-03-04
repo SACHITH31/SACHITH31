@@ -1,42 +1,41 @@
 <h1 align="center">👋 Hey, I'm Sachith</h1>
 
 <p align="center">
-🌱 Frontend Developer | Learning Full-Stack  
-<br>
-💻 Passionate about building clean & user-friendly web apps  
-<br>
-🎓 Ex-Intern @ ThoughtWorks, Hyderabad  
+  🚀 Frontend Developer | Aspiring Full-Stack Engineer  
+  <br/>
+  💡 Building scalable, clean & performance-focused web applications  
+  <br/>
+  🎓 B.Tech Student | Former Intern @ ThoughtWorks, Hyderabad
 </p>
 
 ---
 
-## 🚀 Tech Stack
+## 👨‍💻 About Me
 
-### 🧠 Languages
-![JS](https://img.shields.io/badge/JavaScript-black?logo=javascript)
-![Python](https://img.shields.io/badge/Python-black?logo=python)
-![C](https://img.shields.io/badge/C-black?logo=c)
-![Java
-](https://img.shields.io/badge/Java-black?logo=java)
+- Passionate about crafting intuitive and user-friendly web experiences  
+- Strong foundation in JavaScript and React ecosystem  
+- Currently expanding into backend development and databases  
+- Focused on writing clean, maintainable, and optimized code  
+- Actively practicing Data Structures & Algorithms  
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+JavaScript • Python • C • Java  
 
 ### 🎨 Frontend
-![HTML](https://img.shields.io/badge/HTML-black?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-black?logo=css3)
-![React](https://img.shields.io/badge/React-black?logo=react)
+HTML • CSS • React  
 
-### ⚙ Backend (Learning)
-![Node](https://img.shields.io/badge/Node.js-black?logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-black?logo=express)
+### ⚙ Backend (Learning & Building)
+Node.js • Express.js  
 
 ### 🗄 Databases (Learning)
-![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
+MySQL • MongoDB  
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-black?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-black?logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-black?logo=postman)
+### 🧰 Tools & Platforms
+Git • GitHub • VS Code • Postman  
 
 ---
 
@@ -46,31 +45,36 @@
 
 ### ⚡ Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SACHITH31&theme=github_dark)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SACHITH31&theme=github_dark&utcOffset=5.5)
 
 ### 💡 Languages
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SACHITH31&theme=github_dark)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SACHITH31&theme=github_dark)
 
----
-
-## 🎯 Current Goals
-- Improve React & JavaScript
-- Learn Node.js + MySQL properly
-- Build real-world full-stack projects
-- Practice DSA daily
+![](https://github-readme-streak-stats.herokuapp.com/?user=SACHITH31&theme=github-dark)
 
 ---
 
-## 📫 Connect With Me
+## 🎯 2026 Goals
 
-| Platform | Link |
-|---------|-----|
-| 💼 LinkedIn | https://www.linkedin.com/in/sachith-kasa-11713a391/ |
-| 🌐 Portfolio | Coming Soon |
-| 📧 Email | kasasachith@gmail.com |
+- Strengthen expertise in React & modern JavaScript
+- Build production-ready full-stack applications
+- Master Node.js + MySQL integration
+- Contribute to meaningful open-source projects
+- Maintain daily DSA problem-solving consistency
 
 ---
 
-## 👀 Profile Visits
-![](https://komarev.com/ghpvc/?username=SACHITH31&color=blue)
+## 📬 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/sachith-kasa-11713a391/
+- 📧 Email: kasasachith@gmail.com
+- 🌐 Portfolio: Coming Soon
+
+---
+
+<p align="center">
+  <i>“Consistency builds mastery.”</i>
+</p>
