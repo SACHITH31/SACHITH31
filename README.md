@@ -32,7 +32,6 @@ I enjoy building clean, user-centric web applications and continuously improving
 ![C](https://img.shields.io/badge/C-black?logo=c)
 ![Java](https://img.shields.io/badge/Java-black?logo=java)
 
----
 
 ## 🎨 Frontend
 
@@ -40,21 +39,18 @@ I enjoy building clean, user-centric web applications and continuously improving
 ![CSS](https://img.shields.io/badge/CSS-black?logo=css3)
 ![React](https://img.shields.io/badge/React-black?logo=react)
 
----
 
 ## ⚙ Backend (Learning)
 
 ![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-black?logo=express)
 
----
 
 ## 🗄 Databases (Learning)
 
 ![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
 
----
 
 ## 🧰 Tools
 
