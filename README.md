@@ -1,25 +1,28 @@
 <h1 align="center">👋 Hey, I'm Sachith</h1>
 
 <p align="center">
-  🚀 Frontend Developer | Aspiring Full-Stack Engineer  
+  🚀 Frontend Developer • Aspiring Full-Stack Engineer
   <br/>
-  💡 Focused on scalable systems, clean architecture & performance  
+  💡 Focused on scalable systems, clean architecture & performance
   <br/>
-  🎓 B.Tech Student | Former Intern @ ThoughtWorks, Hyderabad
+  🎓 B.Tech Student • Former Intern @ ThoughtWorks, Hyderabad
 </p>
+
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I am a frontend-focused developer currently expanding into full-stack engineering.  
-I enjoy building clean, user-centric web applications and continuously improving problem-solving skills through Data Structures & Algorithms.
+I am a frontend-focused developer currently expanding into full-stack engineering.
 
-- Strong foundation in JavaScript & React
-- Learning backend system design with Node.js
-- Exploring database integration (MySQL & MongoDB)
-- Writing maintainable, structured, and optimized code
-- Consistent with DSA practice
+I enjoy building scalable and developer-friendly applications while continuously improving my understanding of software engineering, backend systems, and problem-solving.
+
+### Current Focus
+- Building modern React applications
+- Learning backend architecture with Node.js & Express
+- Exploring database systems (MySQL & MongoDB)
+- Improving DSA and problem-solving consistency
+- Developing open-source tools and CLI utilities
 
 ---
 
@@ -32,6 +35,7 @@ I enjoy building clean, user-centric web applications and continuously improving
 ![C](https://img.shields.io/badge/C-black?logo=c)
 ![Java](https://img.shields.io/badge/Java-black?logo=java)
 
+---
 
 ### 🎨 Frontend
 
@@ -39,18 +43,21 @@ I enjoy building clean, user-centric web applications and continuously improving
 ![CSS](https://img.shields.io/badge/CSS-black?logo=css3)
 ![React](https://img.shields.io/badge/React-black?logo=react)
 
+---
 
-### ⚙ Backend (Learning)
+### ⚙ Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-black?logo=express)
 
+---
 
-### 🗄 Databases (Learning)
+### 🗄 Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
 
+---
 
 ### 🧰 Tools
 
@@ -63,21 +70,22 @@ I enjoy building clean, user-centric web applications and continuously improving
 
 # 📦 Open Source Projects
 
-## stack-starter-cli
+## 🚀 stack-starter-cli
 
-CLI tool to instantly generate full-stack starter projects with a clean setup and modern development workflow.
+CLI tool to instantly generate full-stack starter projects with modern setup and clean development workflow.
 
-### 🚀 Features
-- Generate starter full-stack applications instantly
-- Clean project structure
+### ✨ Features
+- Instant starter project generation
 - Beginner-friendly setup
-- Fast development workflow
-- Scalable starter architecture
+- Clean and scalable project structure
+- Faster development workflow
+- Full-stack starter architecture
 
-### 📦 npm Package
+### 📦 Package Stats
 
 [![npm version](https://img.shields.io/npm/v/stack-starter-cli.svg)](https://www.npmjs.com/package/stack-starter-cli)
 [![weekly downloads](https://img.shields.io/npm/dw/stack-starter-cli.svg)](https://www.npmjs.com/package/stack-starter-cli)
+[![total downloads](https://img.shields.io/npm/dt/stack-starter-cli.svg)](https://www.npmjs.com/package/stack-starter-cli)
 
 ### 🔗 Links
 - npm: https://www.npmjs.com/package/stack-starter-cli
@@ -91,7 +99,7 @@ npx stack-starter-cli
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SACHITH31&theme=github_dark)
 
@@ -105,17 +113,17 @@ npx stack-starter-cli
 
 ---
 
-## 🎯 2026 Engineering Goals
+# 🎯 2026 Engineering Goals
 
 - Build production-ready full-stack applications
 - Master backend architecture with Node.js
-- Deepen knowledge in MySQL performance optimization
+- Deepen database and system design knowledge
 - Contribute to impactful open-source projects
-- Maintain daily DSA discipline
+- Maintain consistent DSA discipline
 
 ---
 
-## 📬 Connect With Me
+# 📬 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/sachith-kasa-11713a391/
 - 📧 Email: kasasachith@gmail.com
@@ -124,5 +132,5 @@ npx stack-starter-cli
 ---
 
 <p align="center">
-  <i>Engineering mindset. Long-term growth. Consistent execution.</i>
+  <i>Engineering mindset • Long-term growth • Consistent execution</i>
 </p>
