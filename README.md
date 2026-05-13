@@ -61,6 +61,36 @@ I enjoy building clean, user-centric web applications and continuously improving
 
 ---
 
+# 📦 Open Source Projects
+
+## stack-starter-cli
+
+CLI tool to instantly generate full-stack starter projects with a clean setup and modern development workflow.
+
+### 🚀 Features
+- Generate starter full-stack applications instantly
+- Clean project structure
+- Beginner-friendly setup
+- Fast development workflow
+- Scalable starter architecture
+
+### 📦 npm Package
+
+[![npm version](https://img.shields.io/npm/v/stack-starter-cli.svg)](https://www.npmjs.com/package/stack-starter-cli)
+[![weekly downloads](https://img.shields.io/npm/dw/stack-starter-cli.svg)](https://www.npmjs.com/package/stack-starter-cli)
+
+### 🔗 Links
+- npm: https://www.npmjs.com/package/stack-starter-cli
+- Repository: https://github.com/SACHITH31/stack-starter-cli
+
+### ⚡ Quick Start
+
+```bash
+npx stack-starter-cli
+```
+
+---
+
 ## 📊 GitHub Analytics
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SACHITH31&theme=github_dark)
